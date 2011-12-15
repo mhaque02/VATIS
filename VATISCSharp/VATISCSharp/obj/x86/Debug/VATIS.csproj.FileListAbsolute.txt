@@ -1,0 +1,17 @@
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Debug\VATIS.csproj.ResolveComReference.cache
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Debug\VATIS.VATIS.resources
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Debug\VATIS.Properties.Resources.resources
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\bin\Debug\VATIS.exe.config
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\bin\Debug\VATIS.exe.manifest
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\bin\Debug\VATIS.application
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\bin\Debug\VATIS.exe
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\bin\Debug\VATIS.pdb
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Debug\VATIS.exe.manifest
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Debug\VATIS.application
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Debug\VATIS.exe
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Debug\VATIS.pdb
+C:\Users\SYAM\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Debug\VATIS.ConnectingToNetwork.resources

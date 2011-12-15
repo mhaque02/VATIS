@@ -1,0 +1,16 @@
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Release\Interop.SpeechLib.dll
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Release\VATIS.csproj.ResolveComReference.cache
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Release\VATIS.VATIS.resources
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Release\VATIS.Properties.Resources.resources
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\bin\Release\VATIS.exe.config
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\bin\Release\VATIS.exe.manifest
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\bin\Release\VATIS.application
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\bin\Release\VATIS.exe
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\bin\Release\VATIS.pdb
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Release\VATIS.exe.manifest
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Release\VATIS.application
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Release\VATIS.exe
+C:\Users\Syam\Documents\Visual Studio 2010\Projects\VATISCSharp\VATISCSharp\obj\x86\Release\VATIS.pdb
